@@ -23,6 +23,14 @@ Then, start the app via xcode
 
 Recording on ios simulator: https://drive.google.com/file/d/1ll0ZjCdyzrpXPsncWEtb6rZ-zOYdWnwH/view?usp=sharing
 
+Running the code on android simulator
+```bash
+yarn android
+```
+
+Then, start the app via android studio
+Recording on android simulator: https://drive.google.com/file/d/1jF93Fvn5YLkPk97t965sSO65zgUOtI-p/view?usp=sharing
+
 
 ## Built with:
 

@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "static": "next build && next export",
-    "ios": "yarn static && npx cap sync && npx cap open ios"
+    "ios": "yarn static && npx cap sync && npx cap open ios",
+    "android": "yarn static && npx cap sync && npx cap open android"
   },
   "dependencies": {
     "@capacitor/android": "^5.1.1",
