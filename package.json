@@ -6,9 +6,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "static": "next build && next export",
+    "ios": "yarn static && npx cap sync && npx cap open ios"
   },
   "dependencies": {
+    "@capacitor/android": "^5.1.1",
+    "@capacitor/core": "^5.1.1",
+    "@capacitor/ios": "^5.1.1",
     "@types/node": "20.4.1",
     "@types/react": "18.2.14",
     "@types/react-dom": "18.2.6",
@@ -23,5 +28,7 @@
     "tailwindcss": "3.3.2",
     "typescript": "5.1.6"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@capacitor/cli": "^5.1.1"
+  }
 }

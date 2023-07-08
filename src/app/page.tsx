@@ -17,7 +17,7 @@ import { Article as ArticleType } from "@/types";
 const Home: FC = () => {
   return (
     <div className="pb-20">
-      <header className="bg-deep-blue text-white pt-7 h-[400px] relative">
+      <header className="bg-deep-blue text-white pt-14 h-[400px] relative">
         <div className="pl-8 mb-6">
           <IconButton title="arrow-button">
             <ArrowLeftIcon />
