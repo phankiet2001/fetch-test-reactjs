@@ -1,0 +1,1 @@
+export { default as CoinBalanceContainer } from './CoinBalanceContainer';

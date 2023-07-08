@@ -1,0 +1,10 @@
+export { default as HomeIcon } from './HomeIcon';
+export { default as NotificationIcon } from './NotificationIcon';
+export { default as BoardIcon } from './BoardIcon';
+export { default as UserIcon } from './UserIcon';
+export { default as ArrowLeftIcon } from './ArrowLeftIcon';
+export { default as ArrowRightIcon } from './ArrowRightIcon';
+export { default as PetroIcon } from './PetroIcon';
+export { default as CoinIcon } from './CoinIcon';
+export { default as RentalIcon } from './RentalIcon';
+export { default as FoodIcon } from './FoodIcon';
