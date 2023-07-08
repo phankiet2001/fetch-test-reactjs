@@ -5,7 +5,7 @@ import { Badge } from "@/HOC";
 
 const BottomNavbar: FC = () => {
   return (
-    <section className="fixed bottom-0 w-full px-6 py-5 border-t border-[#E2E2EA] bg-white ">
+    <section className="fixed bottom-0 w-full px-6 pt-5 pb-10 border-t border-[#E2E2EA] bg-white ">
       <div className="flex w-full justify-between items-center">
         <a href="#">
           <Badge>

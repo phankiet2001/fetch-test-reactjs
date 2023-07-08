@@ -6,8 +6,6 @@ npm install
 yarn
 ```
 
-Setting up the enviroment
-
 ```bash
 npm run dev
 # or
@@ -20,6 +18,9 @@ Running the code on ios simulator
 ```bash
 yarn ios
 ```
+
+Then, start the app via xcode
+Recording on ios simulator: https://drive.google.com/file/d/1ll0ZjCdyzrpXPsncWEtb6rZ-zOYdWnwH/view?usp=sharing
 
 
 ## Built with:
