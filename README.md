@@ -29,6 +29,7 @@ yarn android
 ```
 
 Then, start the app via android studio
+
 Recording on android simulator: https://drive.google.com/file/d/1jF93Fvn5YLkPk97t965sSO65zgUOtI-p/view?usp=sharing
 
 
