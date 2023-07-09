@@ -14,7 +14,7 @@ yarn dev
 
 Open [http://127.0.0.1:3000](http://127.0.0.1:3000) with your browser to see the result.
 
-Running the code on ios simulator
+Running the code on ios emulator
 ```bash
 yarn ios
 ```
@@ -23,7 +23,7 @@ Then, start the app via xcode
 
 Recording on ios simulator: https://drive.google.com/file/d/1ll0ZjCdyzrpXPsncWEtb6rZ-zOYdWnwH/view?usp=sharing
 
-Running the code on android simulator
+Running the code on android emulator
 ```bash
 yarn android
 ```
